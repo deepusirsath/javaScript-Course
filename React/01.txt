@@ -1,0 +1,31 @@
+what is React ?
+React is a JavaScript library for building user interfaces.
+
+what is state ?
+The state object is where you store property values that belongs to the component.
+When the state object changes, the component re-renders.
+
+what is props ?
+Props are arguments passed into React components.
+Props are passed to components via HTML attributes.
+
+what is component
+specific part of code that can we use according to our need.
+a pieace of code that can reuse 
+such as fucntion
+but more powerful than fucntion
+Header,footer is best example
+
+
+type- 
+functional component
+class component
+hoc(higher order component)
+pure component
+controlled component
+uncontrolled component
+
+
+
+jsx- JavaScript xml
+it
