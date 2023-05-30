@@ -2,7 +2,7 @@
 let age = 8;
 console.log(age > 8 ? "coffiee" : "milk");
 
-// && operator  //dono condition shi hona chahiye
+// && operator  //dono condition shi hona chahiye 
 let fname = "deepali";
 if (fname[0] === "d" && age === 8) {
   console.log("you win");
