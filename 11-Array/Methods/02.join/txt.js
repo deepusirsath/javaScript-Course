@@ -6,8 +6,3 @@
 // join() Return Value
 
 // Returns a String with all the array elements joined by separator.
-
-// Notes:
-
-// The join() method does not change the original array.
-// Elements like undefined, null, or empty array have an empty string representation.
