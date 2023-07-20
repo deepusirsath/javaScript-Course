@@ -13,3 +13,10 @@ console.log(joinedArrays);
   2, 4, 6, 8 
 ]
 */
+
+var languages1 = ["JavaScript", "Python", "Java"];
+var languages2 = ["C", "C++"];
+
+// concatenating a value and array
+var new_arr1 = languages2.concat("Lua", languages1);
+console.log(new_arr1); // [ 'C', 'C++', 'Lua', 'JavaScript', 'Python', 'Java' ]

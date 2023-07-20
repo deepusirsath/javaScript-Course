@@ -1,4 +1,5 @@
 // The concat() method returns the shallow copy of the concatenated elements in the following way:
+// does not change the orginal array
 
 var randomList = [1, 2, 3];
 var randomNestedList = [
