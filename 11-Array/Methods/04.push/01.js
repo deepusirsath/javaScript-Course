@@ -2,6 +2,8 @@
 
 // The push() method adds zero or more elements to the end of the array.
 
+// do the changes n original array
+
 const a = ["apple", "mango", "banana"];
 console.log(a); //["apple", "mango", "banana"]
 const b = a.push("papaya");
