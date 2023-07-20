@@ -17,3 +17,13 @@ console.log(c); //[1, 2, 3,4]
 //method-3
 let d = [].concat(a);
 console.log(d); //[1, 2, 3,4]
+
+
+let e=[54,34,98]
+let g=e;
+
+console.log(g,"hhh")
+g.push(33)
+
+console.log(g)
+console.log(e)

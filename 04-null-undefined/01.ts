@@ -1,12 +1,12 @@
 //undefined and null
 
-//undifined--In JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+//Undefined means a variable has been declared but has yet not been assigned a value.	
 
 let x;
 console.log(x); //undefined
 console.log(typeof x); //undefined
 
-//null--null is an assignment value. It can be assigned to a variable as a representation of no value:
+//Null is an assignment value. It can be assigned to a variable as a representation of no value. 
 let y = null;
 console.log(y); //null
 console.log(typeof y); //object

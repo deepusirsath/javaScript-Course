@@ -10,6 +10,9 @@
 
 var firstName = "deepali";
 
+var FIRSTNAME="SIRSATH"
+console.log(FIRSTNAME)
+
 // use a variable
 console.log(firstName);
 //document.write(firstName);
